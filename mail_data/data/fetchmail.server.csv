@@ -1,0 +1,2 @@
+id,name,active,state,server,port,server_type,is_ssl,attach,original,date,user,password,priority,script
+1,Incoming MailDev,True,done,localhost,110,pop,False,True,False,2020-11-03 10:59:01,node,password,5,/mail/static/scripts/odoo-mailgate.py

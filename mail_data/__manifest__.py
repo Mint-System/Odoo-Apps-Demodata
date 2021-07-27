@@ -14,8 +14,8 @@
     'depends': ['base'],
 
     'data': [
-        'data/fetchmail_server.csv',
-        'data/ir_mail_server.csv'
+        'data/fetchmail.server.csv',
+        'data/ir.mail_server.csv'
     ],
 
     'installable': True,
