@@ -1,0 +1,2 @@
+id,name,smtp_host,smtp_port,smtp_encryption,smtp_debug,sequence,active
+1,Outgoing Mailhog,localhost,1025,none,False,10,True

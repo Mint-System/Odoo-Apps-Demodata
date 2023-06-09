@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <record model="ir.config_parameter" id="default_external_email_server" forcecreate="False">
+        <field name="key">base_setup.default_external_email_server</field>
+        <field name="value">True</field>
+    </record>
+
+    <!-- <record model="ir.config_parameter" id="base.icp_mail_catchall_alias" forcecreate="False">
+        <field name="key">mail.catchall.domain</field>
+        <field name="value">localhost</field>
+    </record> -->
+
+</odoo>
